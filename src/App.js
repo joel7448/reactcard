@@ -1,7 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Bootstrap from "./bootstrap";
-// hello
+
 function App() {
   let a = [
     {
